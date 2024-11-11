@@ -353,9 +353,9 @@ article .icon {
   cursor: default;
 }
 
-/* PROJECTS SECTION */
+/* CERTIFICATES SECTION */
 
-#projects {
+#certificates {
   position: relative;
 }
 
@@ -375,10 +375,7 @@ article .icon {
   color: black;
 }
 
-.project-btn {
-  color: black;
-  border-color: rgb(163, 163, 163);
-}
+
 
 /* CONTACT */
 
